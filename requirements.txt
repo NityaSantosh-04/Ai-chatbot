@@ -1,0 +1,8 @@
+Flask
+Flask-Cors
+nltk
+numpy
+tensorflow
+transformers
+torch
+rasa
